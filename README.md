@@ -15,7 +15,7 @@ ________________________________________________________________________________
 **Quick recap:**
 ```
 - LocalAunthentication
-- LAContext, NSError (evaluate policy)
+- LAContext(evaluate policy), NSError.
 ```
 
 <img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BiometricAuth/BiometricAuth/Assets.xcassets/example.gif">
