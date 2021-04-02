@@ -23,11 +23,19 @@ ________________________________________________________________________________
 
 ________________________________________
 
-## Pop-up view
+## Pop-up views
 #### In this example:  
-``i will show how to make a simple pop up view.``  
+1. I will show how to make a simple pop up view.
+2. Creating a modal popup view using a separate view controller.  
+The popup will appear on top the your main view controller.
+3. Creating a popup within the same view controller that is calling it.   
+```
+Thanks for the material and awesome books.(BIG MOUNTAIN Studio)  
+© Mark Moeykens
+```
+1.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/BlurredBackground/Assets.xcassets/PopUp.gif">2.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/Separate.gif">3.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/roll-out.gif">
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/PopUp/Assets.xcassets/PopUp.gif">
+
 
 ________________________________________
 
