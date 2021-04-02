@@ -8,6 +8,29 @@
 ## 🚀 Strap In..
 ______________________________________________________________________________________________
 
+## Blur Effect
+#### In this example:  
+``This example you can see how to add visual effects, like blur effect animated.``  
+
+**Quick recap:**
+```
+- UIBlurEffect
+- UIVisualEffectView.
+```
+
+<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BlurEffect/BlurEffect/Assets.xcassets/BlurEffect.gif">
+
+
+________________________________________
+
+## Pop-up view
+#### In this example:  
+``i will show how to make a simple pop up view.``  
+
+<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/PopUp/Assets.xcassets/PopUp.gif">
+
+________________________________________
+
 ## Face&Touch ID
 #### In this example:  
 ``I'll show you how to integrate Face/Touch ID & passcode authentication into your own iOS apps.``  
