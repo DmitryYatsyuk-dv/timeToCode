@@ -7,7 +7,24 @@
 ### Studying 📚
 ## 🚀 Strap In..
 ______________________________________________________________________________________________
+## Implement Onboarding screen
+#### In this example:
+``Imagine material design with cool animations.``  
+``In this example - you can see how to create an adaptation screen, add animations manually or using a pod.``  
+``For example, the well-known Lottie.``  
 
+**Quick recap:**
+```
+- UICollectionView;
+- CustomCollectionViewCell;
+- UIPageControl.
+- Programmatically
+```
+
+<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">
+
+
+________________________________________
 ## Blur Effect
 #### In this example:  
 ``This example you can see how to add visual effects, like blur effect animated.``  
