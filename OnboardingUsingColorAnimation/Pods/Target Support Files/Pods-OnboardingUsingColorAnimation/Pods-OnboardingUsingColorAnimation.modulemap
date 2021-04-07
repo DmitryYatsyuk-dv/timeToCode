@@ -1,0 +1,6 @@
+framework module Pods_OnboardingUsingColorAnimation {
+  umbrella header "Pods-OnboardingUsingColorAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
