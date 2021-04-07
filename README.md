@@ -7,21 +7,28 @@
 ### Studying 📚
 ## 🚀 Strap In..
 ______________________________________________________________________________________________
-## Implement Onboarding screen
-#### In this example:
+## Implementing Onboarding screen
+#### In this example(1):
 ``Imagine material design with cool animations.``  
-``In this example - you can see how to create an adaptation screen, add animations manually or using a pod.``  
+``In this example - you can see how to create an adaptation screen.``  
+``Add animations manually or using a pod.``  
 ``For example, the well-known Lottie.``  
 
 **Quick recap:**
 ```
+1.
 - UICollectionView;
 - CustomCollectionViewCell;
 - UIPageControl.
-- Programmatically
+ Programmatically.
 ```
+```
+2.
+- Using with pod (paper-onboarding);
+© Thanks for the material - RAMOTION Development Agency.
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">
+```
+1.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">2.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">
 
 
 ________________________________________
@@ -31,7 +38,7 @@ ________________________________________
 
 **Quick recap:**
 ```
-- UIBlurEffect
+- UIBlurEffect;
 - UIVisualEffectView.
 ```
 
@@ -51,7 +58,6 @@ Thanks for the material and awesome books.(BIG MOUNTAIN Studio)
 © Mark Moeykens
 ```
 1.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/BlurredBackground/Assets.xcassets/PopUp.gif">2.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/Separate.gif">3.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/roll-out.gif">
-
 
 
 ________________________________________
