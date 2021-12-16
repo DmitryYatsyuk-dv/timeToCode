@@ -1,17 +1,13 @@
 ## timeToCode
 # Hi everyone!🖖🏿
 
-### Here you will find a lot of interesting features and various materials, that I:
-### Acquainted 🦊
-### Experimenting 🧪
-### Studying 📚
-## 🚀 Strap In..
+#### Here you will find a lot of interesting features and various materials, that I:
+#### 🪁 Astonishment 🦊 Experimenting 🧪 Studying 📚  
+### 🚀 Buckle up..
 ______________________________________________________________________________________________
 ## Implementing Onboarding screen
-#### In this example(1):
-``Imagine material design with cool animations.``  
-``In this example - you can see how to create an adaptation screen.``  
-``Add animations manually or using a pod.``  
+``In this section - you can see how to create different onboarding screens.``  
+``Add animations manually(programmatically) or using a pod.``  
 ``For example, the well-known Lottie.``  
 
 **Quick recap:**
@@ -23,13 +19,29 @@ ________________________________________________________________________________
  Programmatically.
 ```
 ```
-2.
+2. With .pod(lottie-ios)
 - Using with pod (paper-onboarding);
 © Thanks for the material - RAMOTION Development Agency.
-
+```  
+``` 
+3. TextAnimate
+- Classic(UIView.amimate).
+```  
+``` 
+4. SlideEffect
+- Interacting with the collection view(scrollPosition).
+```  
+``` 
+5. VideoBgrd
+- AVFoundation;
+- Combine.
 ```
-1.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">2.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">
-
+1.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">
+2.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">
+3.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingTextAnimate(Programmatically)/OnboardingTravelApp/Assets.xcassets/onboardTextAnimate.gif">
+4.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingSlide(Programmatically)/OnboardingFashionApp(Programmatically)/Utils/Assets.xcassets/onbrdSlide.gif">  
+5.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingVideo(Programmatically)/OnboardingVideoPart(Programmatically)/Assets/onboardVideo.gif"><img width = "150" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingVideo(Programmatically)/OnboardingVideoPart(Programmatically)/Assets/memoryCleaning.gif">
+<sub>We can see that when we go to the main screen, we clear the loaded memory.</sub>
 
 ________________________________________
 ## Blur Effect
@@ -42,7 +54,7 @@ ________________________________________
 - UIVisualEffectView.
 ```
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BlurEffect/BlurEffect/Assets.xcassets/BlurEffect.gif">
+<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BlurEffect/BlurEffect/Assets.xcassets/BlurEffect.gif">
 
 
 ________________________________________
@@ -57,7 +69,7 @@ The popup will appear on top the your main view controller.
 Thanks for the material and awesome books.(BIG MOUNTAIN Studio)  
 © Mark Moeykens
 ```
-1.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/BlurredBackground/Assets.xcassets/PopUp.gif">2.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/Separate.gif">3.<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/roll-out.gif">
+1.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/PopUp/BlurredBackground/Assets.xcassets/PopUp.gif">2.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/Separate.gif">3.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/ExamplesPop-up/ExamplePop-up/Assets.xcassets/roll-out.gif">
 
 
 ________________________________________
@@ -72,14 +84,14 @@ ________________________________________
 - LAContext(evaluate policy), NSError.
 ```
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BiometricAuth/BiometricAuth/Assets.xcassets/example.gif">
+<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/BiometricAuth/BiometricAuth/Assets.xcassets/example.gif">
 
 ________________________________________
 
 ## aSlideInTransition
 ``Created side menu.``
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/aSlideInTransition/aSlideInTransition/View/Assets.xcassets/SlideBar.gif">
+<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/aSlideInTransition/aSlideInTransition/View/Assets.xcassets/SlideBar.gif">
 
 ________________________________________
 
@@ -87,6 +99,6 @@ ________________________________________
 ``In the draft slidingCards i used the "CardSlider" framework.``  
 ``This pod allows UI controller to swipe through cards with pictures``
 
-<img width = "250" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/SlidingCards/SlidingCards/View/Assets.xcassets/slidingCards.gif">
+<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/SlidingCards/SlidingCards/View/Assets.xcassets/slidingCards.gif">
 
 ________________________________________
