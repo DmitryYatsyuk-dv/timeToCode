@@ -33,8 +33,8 @@ ________________________________________________________________________________
 ```  
 ``` 
 5. VideoBgrd
-- AVFoundation;
-- Combine.
+- AVFoundation(AVPlayer, AVPlayerLayer);
+- Combine(AnyCancellable).
 ```
 1.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">
 2.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">
