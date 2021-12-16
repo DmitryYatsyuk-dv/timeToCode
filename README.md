@@ -36,10 +36,7 @@ ________________________________________________________________________________
 - AVFoundation(AVPlayer, AVPlayerLayer);
 - Combine(AnyCancellable).
 ```
-1.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">
-2.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">
-3.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingTextAnimate(Programmatically)/OnboardingTravelApp/Assets.xcassets/onboardTextAnimate.gif">
-4.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingSlide(Programmatically)/OnboardingFashionApp(Programmatically)/Utils/Assets.xcassets/onbrdSlide.gif">  
+1.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/Onboarding%20with%20animation/Onboarding%20with%20animation/json.illustration/onboarding.gif">2.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingUsingColorAnimation/OnboardingUsingColorAnimation/Assets.xcassets/Onboarding.gif">3.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingTextAnimate(Programmatically)/OnboardingTravelApp/Assets.xcassets/onboardTextAnimate.gif">4.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingSlide(Programmatically)/OnboardingFashionApp(Programmatically)/Utils/Assets.xcassets/onbrdSlide.gif">  
 5.<img width = "200" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingVideo(Programmatically)/OnboardingVideoPart(Programmatically)/Assets/onboardVideo.gif"><img width = "150" src = "https://github.com/DmitryYatsyuk-dv/timeToCode/blob/main/OnboardingVideo(Programmatically)/OnboardingVideoPart(Programmatically)/Assets/memoryCleaning.gif">
 <sub>We can see that when we go to the main screen, we clear the loaded memory.</sub>
 
